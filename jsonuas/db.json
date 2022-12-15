@@ -1,0 +1,65 @@
+{
+  "User": [
+    {
+      "id": 1,
+      "email": "zulfa",
+      "password": "1234"
+    },
+    {
+      "email": "hindi",
+      "password": "0987",
+      "id": 2
+    },
+    {
+      "email": "aulia",
+      "password": "12345",
+      "id": 3
+    }
+  ],
+  "artikel": {
+    "data": [
+      {
+        "id": 1,
+        "judul": "Dampak Buruk Mie Instan",
+        "isi": "Mie instan adalah makanan yang rasannya sangat enak. Tak heran bila makanan in banyak dicintai oleh masyarakat. Namun ternyata sering mengkonsumsi mie instan membawa dampak buruk bagi tubuh. Berdasarkan sejumlah hasil penelitian, terlalu banyak makan mie instan dapat meningkatkan risiko penyakit kanker, gangguan usus, ginjal hingga obesitas. Karena dampak buruk yang ditimbulkan, maka sebaiknya konsumsi mie instan dihindari. Sebisa mungkin ganti mie instan dengan makanan lain. Kalaupun ingin makan mie instan, sebaiknya beri tenggang waktu antara 2 – 3 hari. Jika sudah terbiasa dengan tenggang waktu tersebut, maka bisa diperpanjang menjadi 5 – 6 hari dan seterusnya. Hal ini dapat membantu siapapun mengurangi konsumsi mie instan dengan lebih baik.",
+        "gambar": "https://blue.kumparan.com/image/upload/v1634025439/01gaftg3t9jj674x04q48v72kb.jpg"
+      },
+      {
+        "id": 2,
+        "judul": "Berhasilkah Pendidikan Kita?",
+        "isi": "Pendidikan merupakan sebuah usaha atau proses yang melibatkan peserta didik dan pengajar dalam suatu waktu dengan tujuan mencapai manusia yang bermartabat. Di Indonesia, pendidikan diatur dalam peraturan yang mewajibkan setiap warganya menempuh pendidikan. Meski sudah diatur dalam susunan peraturan yang jelas, sudahkah pendidikan kita mencapai tujuannya? Suatu pendidikan dapat dikatakan berhasil atau tidak tergantung pada hasil dari pendidikan itu sendiri. Apakah anak yang menempuh pendidikan terlihat lebih atau tidak dapat menjadi tolak ukur suatu keberhasilan pendidikan itu sendiri. Seringkali kita temui orang yang menganggap nilai dari hasil belajar merupakan hasil dari pendidikan, padahal itu salah besar. Hakikat pendidikan bukanlah angka, tapi proses. Bagaimana seseorang terbentuk menjadi manusia yang semestinya adalah inti dari pendidikan. Jadi mari kita lihat dunia pendidikan kita. Apakah anak-anak yang setiap hari sekolah itu menjadi manusia yang lebih baik? Apakah dunia pendidikan kita sudah jauh dari kata money oriented? Jika belum, tampaknya pendidikan kita masih jauh dari kata berhasil.",
+        "gambar": "https://asset.kompas.com/crops/E3vwzP3wxMLnG7WM2tuktItQg0I=/45x4:981x628/750x500/data/photo/2019/10/02/5d946fda8357c.jpg"
+      },
+      {
+        "id": 3,
+        "judul": "Teknologi GPS Terbaru",
+        "isi": "Informasi tebaru mengatakan bahwa perusahaan X telah berhasil meluncurkan produk baru dengan teknologi GPS yang sangat canggih. Perusahaan X berhasil mengembangkan sebuah smartphone yang membawa teknologi GPS dalam tingkat yang lebih tinggi. Smartphone tipe T yang diluncurkan pada bulan ini digadang-gadang merupakan smartphone terbaik yang mengangkat sistem GPS dalam berbagai fitur. GPS yang ada dalam smartphone mampu memantau gerakan pemiliknya dan membunyikan alarm jika pemiliknya melakukan sesuatu yang buruk. Jika pemilik kebanyakan duduk, maka smartphone otomatis akan berbunyi dan menyarankan untuk segera bergerak. Jika pemilik sedang berada di tengah jalan, maka smartphone akan memperingatkan bahaya kendaraan yang melintas. Jadi smartphone ini seolah menjadi pengontrol setiap tindakan yang dilakukan.",
+        "gambar": "https://awsimages.detik.net.id/community/media/visual/2018/03/07/38d8f3d3-72bb-4566-b857-17bda20f7271_169.jpeg?w=650&q=90"
+      },
+      {
+        "id": 4,
+        "judul": "Bunga Mawar Serbaguna",
+        "isi": "Bunga mawar menjadi simbol dari rasa cinta dan kehangatan. Seseorang yang memperoleh bunga mawar yang indah pasti akan merasa begitu hangat. Ketulusan yang diberikan seolah tergambarkan pada bungan berwarna merah yang harum ini. Namun ternyata bunga mawar banyak dipakai di industri kecantikan. Minyak yang terdapat dalam bungan mawar dapat membuat kulit tetap sehat dan glowing. Bukan hanya itu, wangi dari bunga mawar yang eksotis juga banyak dipakai oleh perusahaan parfum di dunia. Bunga mawar juga dibuat minuman yang menyehatkan dengan aromanya yang khas. Itulah manfaat dari bungan mawar yang bisa kita temui di kehidupan sehari-hari. Tuhan memang menciptakan sesuatu dengan manfaat, bukan dengan kesia-siaan.",
+        "gambar": "https://asset.kompas.com/crops/SU2rIFfQk9bmpllTs4f-kQDaRsU=/192x128:1728x1152/750x500/data/photo/2021/02/04/601bce0638cf2.jpg"
+      },
+      {
+        "id": 5,
+        "judul": "COVID-19, Virus Baru yang Meresahkan",
+        "isi": "Dunia digemparkan dengan kehadiran virus jenis baru yang merebak di kota Wuhan, China sejak akhir tahun 2019 lalu. Virus ini diberi nama COVID-19 atau Corona. Menurut penelitian yang dilakukan oleh para ahli, virus ini menyebar dengan cepat melalui percikan. Percikan ini bisa terjadi saat seseorang sedang bicara, batuk atau bersin. Virus yang menempel pada benda atau berpindah ke tubuh orang lain akan masuk melalui saluran pernapasan atau kulit manusia. WHO menjelaskan, apabila virus sudah berhasil masuk ke dalam tubuh manusia, maka virus akan menyerang sistem pernapasan. Orang yang dari awal sudah memiliki masalah kesehatan lebih rentan terhadap serangan virus ini hingga menyebabkan kematian. Namun orang yang mempunyai kekebalan tubuh yang kuat tidak akan terpengaruh dengan masuknya virus ini ke dalam tubuhnya. Oleh karena itu, menjaga kesehatan tubuh sangatlah penting bagi siapapun.",
+        "gambar": "https://image-cdn.medkomtek.com/SXwRwf3RzsGv-kzP39f4jCgmng0=/673x373/smart/klikdokter-media-buckets/medias/2318722/original/001812900_1599537937-Penyebab-Virus-Corona-shutterstock_1682648152.jpg"
+      },
+      {
+        "id": 6,
+        "judul": "Kurangi Sampah Demi Lingkungan",
+        "isi": "Sampah menjadi permasalahan yang tidak ada habisnya sebelum manusia mempunyai kesadaran diri mengenai lingkungan. Banyaknya konsumsi setiap hari membuat manusia selalu menghasilkan banyak sampah setiap harinya. Demi mengurangi sampah yang ada, masyarakat hendaknya menggunakan barang yang didaur ulang. Misalnya saja, untuk kebutuhan kantong plastik kita bisa menggunakan satu kantong saja yang bisa dipakai berulang-ulang. Hal ini akan membantu mengurangi sampah dan menjadikan bumi lebih sehat.",
+        "gambar": "https://awsimages.detik.net.id/community/media/visual/2021/06/24/tumpukan-sampah-berserakan-di-labuhanbatu-1.jpeg?w=1200"
+      },
+      {
+        "id": 7,
+        "judul": "Yuk, Kenali Produk Vegan",
+        "isi": "Saat ini masyarakat lebih sadar akan kesehatan dan lingkungan. Memenuhi kebutuhan tersebut, banyak perusahaan yang meluncurkan produk vegan. Produk vegan dinilai lebih aman untuk tubuh dan juga lebih ramah lingkungan. Beberapa produk vegan dibuat dengan kemasan yang berasal dari ulang. Hal ini tentu sangat bermanfaat bagi bumi kita yang sedang sekarat karena limbah yang terus menumpuk. Memang harga produk vegan lebih mahal jika dibandingkan produk biasa, namun manfaatnya luar biasa. Produk-produk vegan memiliki aroma yang lebih semerbak dan juga terasa natural. Bahan-bahan yang digunakan tidak mengandung bahan kimia berbahaya. Anda bisa mencoba beralih ke produk vegan demi hidup yang lebih baik dan bumi yang lebih sehat. Jika terasa sulit, Anda bisa beralih sedikit demi sedikit. Mulailah dari hal kecil, seperti penggunaan produk sabun anda bisa membeli produk yang sudah berlabel vegan. Perubahan kecil akan membawa perubahan besar pada dunia.",
+        "gambar": "https://awsimages.detik.net.id/community/media/visual/2022/10/20/hari-vegan-sedunia-1-november-ini-asal-usul-peringatannya-1_43.jpeg?w=700&q=90"
+      }
+    ]
+  }
+}
